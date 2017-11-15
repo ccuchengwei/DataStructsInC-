@@ -1,2 +1,2 @@
-# DataStructsInC-
+# DataStructsInCsharp
 implement data structs in C#

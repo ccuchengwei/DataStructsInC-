@@ -1,0 +1,7 @@
+C:\Users\chengwei\source\repos\bst\Sort\Sort\bin\Debug\Sort.exe.config
+C:\Users\chengwei\source\repos\bst\Sort\Sort\bin\Debug\Sort.exe
+C:\Users\chengwei\source\repos\bst\Sort\Sort\bin\Debug\Sort.pdb
+C:\Users\chengwei\source\repos\bst\Sort\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+C:\Users\chengwei\source\repos\bst\Sort\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+C:\Users\chengwei\source\repos\bst\Sort\Sort\obj\Debug\Sort.exe
+C:\Users\chengwei\source\repos\bst\Sort\Sort\obj\Debug\Sort.pdb
